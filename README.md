@@ -1,2 +1,1 @@
-# START
-# July
+# START July 1
